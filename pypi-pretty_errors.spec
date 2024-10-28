@@ -7,7 +7,7 @@
 #
 Name     : pypi-pretty_errors
 Version  : 1.2.25
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/c8/a7/823f451d48726729b4983072aad7c442f4c02fbaec04b71c1f4c03993964/pretty_errors-1.2.25.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c8/a7/823f451d48726729b4983072aad7c442f4c02fbaec04b71c1f4c03993964/pretty_errors-1.2.25.tar.gz
 Summary  : Prettifies Python exception output to make it legible.
